@@ -17,11 +17,13 @@
     color: white;
     font-size: 20px;
 }
+
 #myCarousel2 {
     background-color: mediumaquamarine;
 }
+
 img {
-    width:201px;
+    width: 201px;
     height: 188px;
     margin-right: 3px;
     margin-top: 2px;
